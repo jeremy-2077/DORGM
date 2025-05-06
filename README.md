@@ -4,7 +4,7 @@
 
 Our experiments are implemented using [mmsegmentation](https://github.com/open-mmlab/mmsegmentation). Please download our config files and model weights to the framework for experimentation.
 
-# Note: please cite the corresponding papers when using these datasets.
+## Note: please cite the corresponding papers when using these datasets.
 
 DeepCrack:
 ```
@@ -20,7 +20,8 @@ DeepCrack:
 ```
 
 CRACK500:
->@inproceedings{zhang2016road,
+```
+@inproceedings{zhang2016road,
   title={Road crack detection using deep convolutional neural network},
   author={Zhang, Lei and Yang, Fan and Zhang, Yimin Daniel and Zhu, Ying Julie},
   booktitle={Image Processing (ICIP), 2016 IEEE International Conference on},
@@ -28,18 +29,20 @@ CRACK500:
   year={2016},
   organization={IEEE}
 }' .
-
->@article{yang2019feature,
+```
+```
+@article{yang2019feature,
   title={Feature Pyramid and Hierarchical Boosting Network for Pavement Crack Detection},
   author={Yang, Fan and Zhang, Lei and Yu, Sijia and Prokhorov, Danil and Mei, Xue and Ling, Haibin},
   journal={IEEE Transactions on Intelligent Transportation Systems},
   year={2019},
   publisher={IEEE}
 }
-
+```
 
 CFD: 
->@article{shi2016automatic,
+```
+@article{shi2016automatic,
   title={Automatic road crack detection using random structured forests},
   author={Shi, Yong and Cui, Limeng and Qi, Zhiquan and Meng, Fan and Chen, Zhensong},
   journal={IEEE Transactions on Intelligent Transportation Systems},
@@ -49,3 +52,4 @@ CFD:
   year={2016},
   publisher={IEEE}
 }
+```
