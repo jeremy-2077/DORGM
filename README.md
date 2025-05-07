@@ -4,6 +4,8 @@
 
 Our experiments are implemented using [mmsegmentation](https://github.com/open-mmlab/mmsegmentation). Please download our config files and model weights to the framework for experimentation.
 
+Because the datasets and model weights of DNLNet and PointRend are too large, we have placed it in Google Drive. Please visit the link [Datasets](https://drive.google.com/drive/folders/15GvERFnkOlW4-Kss8Ovk9qLr_JzXtV__?usp=drive_link) and [Checkpoints](https://drive.google.com/drive/folders/1O84yZ5a5SwZQ-AIpW3YhPl5kmWfrycbt?usp=drive_link)
+
 ## Note: please cite the corresponding papers when using these datasets.
 
 DeepCrack:
